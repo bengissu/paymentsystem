@@ -97,7 +97,7 @@ This project is ideal for those looking for a robust solution for handling multi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/paymentsystem.git
+   git clone https://github.com/bengissu/paymentsystem.git
    cd paymentsystem
    ```
 
